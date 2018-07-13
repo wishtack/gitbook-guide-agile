@@ -51,7 +51,7 @@ L' effort nécessaire pour chacune des stories peut être estimé en heures mais
 
 ### Estimation de l'Effort
 
-L' **effort** nécessaire pour réaliser chaque User Story est évalué avec un nombre de **points** suivant généralement une suite de Fibonacci _\(1, 2, 3, 5, 8 du plus simple au plus complexe\)_.  
+L'**effort** nécessaire pour réaliser chaque User Story est évalué avec un nombre de **points** suivant généralement une suite de Fibonacci _\(1, 2, 3, 5, 8 du plus simple au plus complexe\)_.  
 En pratique, les valeurs 1, 2 et 3 suffisent et encouragent un découpage plus fin.
 
 ### Planning Poker
