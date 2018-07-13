@@ -2,7 +2,7 @@
 
 Le **Burn Down Chart** indique la **progression de l'effort nécessaire restant** _\(en points\)_ pour accomplir un ensemble de User Stories **à travers le temps**.
 
-![Burn Down Chart](../../.gitbook/assets/image.png)
+![Burn Down Chart](../../.gitbook/assets/image%20%281%29.png)
 
 Il est possible de produire un Burn Down Chart pour un **Sprint**, une **Release** ou **l'intégralité du produit**.
 

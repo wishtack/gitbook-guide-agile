@@ -18,7 +18,7 @@
 * 3 nouveaux développeurs rejoignent l'équipe en renfort.
 * Le renfort ralentit encore plus l'équipe.
 
-![Cycle en racine carr&#xE9;e de Michel ARBOI](.gitbook/assets/image%20%282%29.png)
+![Cycle en racine carr&#xE9;e de Michel ARBOI](.gitbook/assets/image%20%283%29.png)
 
 ## Coût du changement
 
