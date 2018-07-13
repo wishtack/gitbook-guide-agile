@@ -1,12 +1,10 @@
-# Intégration Continue, Livraison Continue et Déploiement Continu
-
-## Intégration Continue
+# Intégration Continue
 
 L'intégration continue permet de **vérifier à chaque changement de code** que celui-ci **fonctionne correctement** sur une **environnement identique à celui de production** et sans perturber les autres fonctionnalités.
 
 En eXtreme Programming, il est recommandé d'intégrer le plus fréquemment possible de petits changements afin d'en constater les conséquences le plus rapidement possible.
 
-### Exemple
+## Exemple
 
 Chez Wishtack, suite à un changement, nous avons constaté une fuite mémoire sur l'environnement d'intégration après quelques minutes.
 
@@ -23,22 +21,15 @@ Netflix raconte une fuite mémoire assez surprenante qui leur a couté une éner
 
 {% embed data="{\"url\":\"https://medium.com/netflix-techblog/node-js-in-flames-ddd073803aa4\",\"type\":\"link\",\"title\":\"Node.js in Flames\",\"description\":\"Flame Graphs to the Rescue\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*ty4NvNrGg4ReETxqU2N3Og.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/2000/0\*nirxOP9EGHyf02L1.\",\"width\":1068,\"height\":337,\"aspectRatio\":0.3155430711610487}}" %}
 
-### Fonctionnement
+## Fonctionnement
 
 1. A chaque modification, le développeur Check-In son code sur le Repository. 
 2. A chaque Check-In, le produit est rebuild automatiquement et les résultats sont publiés. Les résultats doivent être accessibles à toute l'équipe. 
 3. En cas de succès, les tests automatisés sont exécutés et les résultats publiés. 
-4. En cas de succès, les serveurs d'intégration sont mis à jour.
+4. En cas de succès, les serveurs d'intégration sont mis à jour. 
+5. Toutes les parties prenantes _\(développeurs, clients etc...\)_ peuvent évaluer la dernière version.
 
-![Continuous Integration](../.gitbook/assets/continuous-integration.png)
-
-## Livraison Continue
-
-Les fonctionnalités validées par le "client" peuvent être publiées en production.
-
-![Continuous Delivery](../.gitbook/assets/continuous-delivery.png)
-
-## Déploiement Continu
+![Continuous Integration](../../.gitbook/assets/continuous-integration.png)
 
 
 
