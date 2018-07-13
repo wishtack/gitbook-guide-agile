@@ -52,14 +52,7 @@ De même, **tout le monde n'est pas obligé de parler** et à tour de rôle car 
 
 * **Evitez le** "**token**" de parole ! Le token de parole est un objet que l'on passe d'une personne à l'autre pour indiquer qui a la parole. Cela permet à tout les membres de parler et d'éviter les interruptions or un bon Stand-Up Meeting est celui où il y a des interruptions car cela signifie que les autres s'intéressent au sujet. D'autre part, comme indiqué plus loin, avec un Spring Goal convergeant, tout le monde n'est pas obligé de parlé. 
 
-## Astuces
-
-#### Un Sprint Goal convergeant
-
-{% hint style="success" %}
-Définissez un Sprint Goal avec **des User Stories fortement liées techniquement et/ou fonctionnellement**.  
-Avec des sujets techniques ou fonctionnels liés, proches ou similaires les membres de la Development Team s'intéresseront naturellement aux autres lors du Stand-Up Meeting mais également tout au long du Sprint.
-{% endhint %}
+## 
 
 
 

@@ -77,3 +77,12 @@ Le code le moins maintenable est souvent produits par les experts et non les dé
 Méfiez-vous des Lead Developers !
 {% endhint %}
 
+## Astuces
+
+### Un Sprint Goal convergeant
+
+{% hint style="success" %}
+Définissez un Sprint Goal avec **des User Stories fortement liées techniquement et/ou fonctionnellement**.  
+Avec des sujets techniques ou fonctionnels liés, proches ou similaires les membres de la Development Team s'intéresseront naturellement aux autres lors du Stand-Up Meeting mais également tout au long du Sprint.
+{% endhint %}
+

@@ -4,7 +4,7 @@ L'intégration continue permet de **vérifier à chaque changement de code** que
 
 En eXtreme Programming, il est recommandé d'intégrer le plus fréquemment possible de petits changements afin d'en constater les conséquences le plus rapidement possible.
 
-## Exemple
+## Anecdote
 
 Chez Wishtack, suite à un changement, nous avons constaté une fuite mémoire sur l'environnement d'intégration après quelques minutes.
 
