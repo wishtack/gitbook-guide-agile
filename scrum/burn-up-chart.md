@@ -1,2 +1,0 @@
-# Burn Up Chart
-
