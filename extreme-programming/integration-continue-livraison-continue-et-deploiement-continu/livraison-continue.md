@@ -1,6 +1,6 @@
 # Livraison Continue
 
-En plus de tout ce que l'[intégration continue](integration-continue.md) propose, la **livraison continue** ajoute une dernière étape au process permettant aux parties prenantes autorisées de **déployer** la dernière version **en production par simple clic** mais également de **rollback** à la version précédente en cas de problème.
+En plus de tout ce que l'[Intégration Continue](integration-continue.md) propose, la **Livraison Continue** ajoute une dernière étape au process permettant aux parties prenantes autorisées de **déployer** la dernière version **en production par simple clic** mais également de **rollback** à la version précédente en cas de problème.
 
 En plus de cette fonctionnalité, la livraison continue **implique surtout une façon de concevoir et de développer** les produits respectant les règles suivantes :
 
