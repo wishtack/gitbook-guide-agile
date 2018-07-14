@@ -10,7 +10,7 @@ Le Burn Up Chart a pour avantage de **représenter l'ajout et la suppression de 
 
 Dans l'exemple ci-dessous, le Burn Up Chart donne l'impression que la progression a stagné puis accéléré alors que des User Stories ont été ajoutées en cours de route puis d'autres ont été retirées à la fin pour respecter les délais.
 
-![Burn Down vs Burn Up](../../.gitbook/assets/image%20%285%29.png)
+![Burn Down vs Burn Up](../../.gitbook/assets/image%20%287%29.png)
 
 
 
