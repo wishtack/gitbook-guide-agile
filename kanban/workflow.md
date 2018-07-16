@@ -1,6 +1,6 @@
 # Workflow
 
-![Kanban Workflow](../.gitbook/assets/image%20%288%29.png)
+![Kanban Workflow](../.gitbook/assets/image%20%289%29.png)
 
 ###  Work-In-Progress limit
 

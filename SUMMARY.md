@@ -48,6 +48,10 @@
   * [Workflow](kanban/workflow.md)
   * [Indicateurs et Paramètres](kanban/indicateurs-et-parametres.md)
   * [Classes of Service](kanban/classes-of-service.md)
-* [Transformation Agile](transformation-agile.md)
+* [Transformation Agile](transformation-agile/README.md)
+  * [Projet Pilote](transformation-agile/projet-pilote.md)
+  * [Plan de Passage à l'Agilité](transformation-agile/plan-de-passage-a-lagilite.md)
+  * [Le Changement](transformation-agile/le-changement.md)
+  * [Contractualisation](transformation-agile/contractualisation.md)
 * [Outils](outils.md)
 
