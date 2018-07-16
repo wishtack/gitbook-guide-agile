@@ -53,5 +53,8 @@
   * [Plan de Passage à l'Agilité](transformation-agile/plan-de-passage-a-lagilite.md)
   * [Le Changement](transformation-agile/le-changement.md)
   * [Contractualisation](transformation-agile/contractualisation.md)
+  * [Management](transformation-agile/management.md)
+  * [Scrum of Scrums](transformation-agile/scrum-of-scrums.md)
+  * [Quelques Liens](transformation-agile/quelques-liens.md)
 * [Outils](outils.md)
 
