@@ -43,7 +43,11 @@
     * [Déploiement Continu](extreme-programming/integration-continue-livraison-continue-et-deploiement-continu/deploiement-continu.md)
     * [Review Apps](extreme-programming/integration-continue-livraison-continue-et-deploiement-continu/review-apps.md)
 * [Indicateurs](indicateurs.md)
-* [Kanban](kanban.md)
+* [Kanban](kanban/README.md)
+  * [Principes du Kanban](kanban/principes-du-kanban.md)
+  * [Workflow](kanban/workflow.md)
+  * [Indicateurs et Paramètres](kanban/indicateurs-et-parametres.md)
+  * [Classes of Service](kanban/classes-of-service.md)
 * [Transformation Agile](transformation-agile.md)
 * [Outils](outils.md)
 
