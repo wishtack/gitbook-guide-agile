@@ -55,6 +55,6 @@
   * [Contractualisation](transformation-agile/contractualisation.md)
   * [Management](transformation-agile/management.md)
   * [Scrum of Scrums](transformation-agile/scrum-of-scrums.md)
-  * [Quelques Liens](transformation-agile/quelques-liens.md)
+  * [Agile at Scale](transformation-agile/quelques-liens.md)
 * [Outils](outils.md)
 

@@ -27,7 +27,7 @@ Le traffic est donc toujours conduit vers un seul environnement.
 
 En cas de rollback, il suffit de reconduire le traffic vers l'environnement précédent.
 
-![Blue / Green Deployment by Cloud Foundry](../../.gitbook/assets/image%20%287%29.png)
+![Blue / Green Deployment by Cloud Foundry](../../.gitbook/assets/image%20%288%29.png)
 
 ## Feature Flags
 
