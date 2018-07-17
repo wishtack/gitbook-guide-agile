@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Le Guide Agile par Wishtack](README.md)
 * [Sans Agilité](sans-agilite.md)
 * [Agile Manifesto](agile-manifesto.md)
 * [Scrum](scrum/README.md)

@@ -1,4 +1,4 @@
-# Initial page
+# Le Guide Agile par Wishtack
 
 Après 5 ans de développement d'applications, d'animation de formations et d'accompagnement d'entreprises dans leurs développements, nous avons décidé de produire cet ouvrage gratuit afin de partager notre expérience.
 
