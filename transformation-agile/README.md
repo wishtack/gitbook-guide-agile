@@ -1,4 +1,2 @@
 # Transformation Agile
 
-TODO
-
