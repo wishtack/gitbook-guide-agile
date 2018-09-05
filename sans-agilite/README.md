@@ -4,9 +4,12 @@
 
 ### Le client exprime son besoin
 
-> Je veux une application mobile pour un réseau social avec du rouge en couleur dominante. Rendez-vous dans 6 mois.
+avec une phrase...
 
-... ou avec un cahier des charges.
+> Je veux une application mobile pour un réseau social avec du rouge en couleur dominante.  
+> Rendez-vous dans 6 mois.
+
+... ou pire encore, avec un cahier des charges.
 
 ### 3 mois plus tard...
 
@@ -39,11 +42,15 @@ De même, sans méthode de développement, plus le développement avance, plus l
 * Complexité artificielle _\(i.e. : développement inutile ou inutilisable\)_.
 * L'équipe est débordée par la correction de bugs.
   * La correction d'un bug en provoque un autre.
+* Plusieurs fonctionnalités en cours de développement mais aucune de finalisée.
 
-## Conséquences organisationnelles
+## Conséquences organisationnelles et humaines
 
-* Dé-responsabilisation des développeurs.
+* Manque de satisfaction.
+* Tension et conflits.
+* Vélocité de l'équipe en diminution permanente.
+* Dé-responsabilisation des développeurs et compétition au sein même de l'équipe.
 * Problèmes de priorisation des tâches.
-* Plusieurs personnes qui réimplementent la même fonctionnalité.
+* Décisions maladroites dans la panique.
 * Le "deadlock" humain.
 
