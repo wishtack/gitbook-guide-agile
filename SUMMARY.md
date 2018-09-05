@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Le Guide Agile par Wishtack](README.md)
-* [Sans Agilité](sans-agilite.md)
+* [Sans Agilité](sans-agilite/README.md)
+  * [Bottom-up vs Top-down](sans-agilite/bottom-up-vs-top-down.md)
+  * [Exemple de Régression Naturelle](sans-agilite/exemple-de-regression-naturelle.md)
 * [Agile Manifesto](agile-manifesto.md)
 * [Scrum](scrum/README.md)
   * [Théorie et Piliers du Scrum](scrum/theorie-et-piliers-du-scrum.md)
