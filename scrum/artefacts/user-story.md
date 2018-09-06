@@ -2,7 +2,7 @@
 
 Une User Story est un item qui indique explicitement les informations suivantes :
 
-* **Le rôle** : rôle de l'utilisateur du produit. A ne pas confondre avec les rôles Scrum,
+* **Le rôle** : rôle de l'utilisateur du produit _\(Exemple : pour une boutique en ligne : vendeur, acheteur etc...\)_. _\(A ne pas confondre avec les rôles Scrum : Scrum Master, Product Owner etc...\)_,
 * **Le but** : objectif de la User Story
 * et idéalement l'intérêt business de la "user story".
 
