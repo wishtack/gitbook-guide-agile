@@ -1,6 +1,6 @@
 # Expression du Besoin
 
-Il est recommandé de suivre les principes **I.N.V.E.S.T.** suivants pour exprimer de besoin :
+Il est recommandé de suivre les principes **I.N.V.E.S.T.** suivants pour exprimer le besoin :
 
 ### Independant
 
