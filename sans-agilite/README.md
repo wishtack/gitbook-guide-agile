@@ -23,6 +23,11 @@ avec une phrase...
 
 ![Cycle en racine carr&#xE9;e de Michel ARBOI](../.gitbook/assets/image%20%285%29.png)
 
+  
+
+
+![Not Agile](../.gitbook/assets/not-agile.jpg)
+
 ## Coût du changement
 
 Avec le cycle en V, le coût du changement augmente au fil du temps à travers le Software Development Life Cycle.
