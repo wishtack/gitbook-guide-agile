@@ -46,9 +46,9 @@ Cela permet d'éviter le _**git spaghetti**_ et les **conflits de merge**.
 
 ## Heroku Review Apps
 
-{% embed data="{\"url\":\"https://devcenter.heroku.com/articles/github-integration-review-apps\",\"type\":\"link\",\"title\":\"Review Apps \| Heroku Dev Center\",\"description\":\"Run the code in any GitHub pull request in a complete, disposable Heroku app.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.herokucdn.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.herokucdn.com/images/og.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"caption\":\"Heroku Review Apps\"}" %}
+{% embed url="https://devcenter.heroku.com/articles/github-integration-review-apps" caption="Heroku Review Apps" %}
 
 ## GitLab Review Apps
 
-{% embed data="{\"url\":\"https://docs.gitlab.com/ee/ci/review\_apps/\",\"type\":\"link\",\"title\":\"Getting started with Review Apps \| GitLab\",\"description\":\"Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus GitLab, and GitLab Runner.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://docs.gitlab.com/favicon.ico\",\"aspectRatio\":0},\"caption\":\"GitLab Review Apps\"}" %}
+{% embed url="https://docs.gitlab.com/ee/ci/review\_apps/" caption="GitLab Review Apps" %}
 

@@ -2,19 +2,19 @@
 
 ## Spotify Engineering Culture
 
-{% embed data="{\"url\":\"https://vimeo.com/85490944\",\"type\":\"video\",\"title\":\"Spotify Engineering Culture - part 1\",\"description\":\"An attempt to describe our engineering culture. This is a journey in progress, not a journey completed, so the video is somewhere between \\\"How Things Are Today\\\" and \\\"How We Want Things To Be\\\". \\n\\nHere\'s the full drawing:\\nhttp://spotifylabscom.files.wordpress.com/2014/03/spotify-engineering-culture-part1.jpeg\\n\\nHere\'s part 2:\\nhttps://vimeo.com/94950270\",\"icon\":{\"type\":\"icon\",\"url\":\"https://i.vimeocdn.com/favicon/main-touch\_180\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://i.vimeocdn.com/video/462847244.jpg\",\"width\":960,\"height\":600,\"aspectRatio\":0.625},\"embed\":{\"type\":\"player\",\"url\":\"https://player.vimeo.com/video/85490944?byline=0&badge=0&portrait=0&title=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 62.5%;\\\"><iframe src=\\\"https://player.vimeo.com/video/85490944?byline=0&amp;badge=0&amp;portrait=0&amp;title=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.6},\"caption\":\"Spotify Engineering Culture - Part 1\"}" %}
+{% embed url="https://vimeo.com/85490944" caption="Spotify Engineering Culture - Part 1" %}
 
-{% embed data="{\"url\":\"https://vimeo.com/94950270\",\"type\":\"video\",\"title\":\"Spotify Engineering Culture - part 2\",\"description\":\"An attempt to describe our engineering culture. This is a journey in progress, not a journey completed, so the video is somewhere between \\\"How Things Are Today\\\" and \\\"How We Want Things To Be\\\". \\n\\nHere\'s the whole drawing:\\nhttps://spotifylabscom.files.wordpress.com/2014/09/spotify-engineering-culture-part2.jpeg\\n\\nHere\'s part 1: https://vimeo.com/85490944\",\"icon\":{\"type\":\"icon\",\"url\":\"https://i.vimeocdn.com/favicon/main-touch\_180\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.vimeocdn.com/video/474956755\_640.jpg\",\"width\":640,\"height\":400,\"aspectRatio\":0.625},\"embed\":{\"type\":\"player\",\"url\":\"https://player.vimeo.com/video/94950270?byline=0&badge=0&portrait=0&title=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 62.5%;\\\"><iframe src=\\\"https://player.vimeo.com/video/94950270?byline=0&amp;badge=0&amp;portrait=0&amp;title=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.6},\"caption\":\"Spotify Engineering Culture - Part 2\"}" %}
+{% embed url="https://vimeo.com/94950270" caption="Spotify Engineering Culture - Part 2" %}
 
-{% embed data="{\"url\":\"https://medium.com/productmanagement101/spotify-squad-framework-part-i-8f74bcfcd761\",\"type\":\"link\",\"title\":\"Spotify Squad framework — Part I\",\"description\":\"I watched this video about the Spotify Engineering culture last year, and BOOM, my mind just exploded. I fell completely in love with…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*sc\_WrtzKJzld3yi5McViVA.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/2000/1\*87n3r105VP1eo3n\_yHLCpA.jpeg\",\"width\":2000,\"height\":1333,\"aspectRatio\":0.6665}}" %}
+{% embed url="https://medium.com/productmanagement101/spotify-squad-framework-part-i-8f74bcfcd761" %}
 
 ## LeSS \| Large Scale Scrum
 
-{% embed data="{\"url\":\"https://less.works/\",\"type\":\"link\",\"title\":\"Overview\\n- Large Scale Scrum \(LeSS\)\",\"icon\":{\"type\":\"icon\",\"url\":\"https://less.works/assets/favicon-e4f1a9e3d06c5f917948489ca8206ed2b631b7dc9131f41b477138a68da8e02b.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://less.works/" %}
 
 ### SAFe \| Scaled Agile Framework
 
-{% embed data="{\"url\":\"https://www.scaledagileframework.com/\",\"type\":\"link\",\"title\":\"Scaled Agile Framework – SAFe for Lean Enterprises\",\"description\":\"SAFe for Lean Enterprises\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.scaledagileframework.com/wp-content/uploads/2015/10/apple-icon-144x144.png\",\"width\":144,\"height\":144,\"aspectRatio\":1}}" %}
+{% embed url="https://www.scaledagileframework.com/" %}
 
 
 

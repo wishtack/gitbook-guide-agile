@@ -37,7 +37,7 @@ Evitez le Niko Niko Calendar !
 
 ### Isolement au sein de l'équipe
 
-{% embed data="{\"url\":\"https://blog.wishtack.com/2018/04/04/l-isolement-ou-le-mal-qui-ronge-votre-equipe/\",\"type\":\"link\",\"title\":\"L’isolement ou le mal qui ronge votre équipe\",\"description\":\"Quel est le degré d’isolement des membres de votre équipe ? L’avez-vous déjà évalué ? En avez-vous estimé l’impact sur votre efficacité et votre bien-être ? \",\"icon\":{\"type\":\"icon\",\"url\":\"https://wishtackblog.files.wordpress.com/2017/03/cropped-wishtack\_logo\_1024x1024.png?w=192\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://wishtackblog.files.wordpress.com/2018/03/isolation.jpg\",\"width\":748,\"height\":478,\"aspectRatio\":0.6390374331550802}}" %}
+{% embed url="https://blog.wishtack.com/2018/04/04/l-isolement-ou-le-mal-qui-ronge-votre-equipe/" %}
 
 * Vos développeurs travaillent-ils avec des boucliers d’interaction sociale \(A.K.A. casques audios\) ?
 * Entendez-vous du vocabulaire possessif au sein de l’équipe tel que “ton outil ne marche plus”; “mon code”; “j’ai fini ma story”; “ah non ! je ne toucherai pas à ça, c’est machin qui s’en occupe”; ”ce code/cette application/cet outil, c’est mon bébé !” ![&#x1F631;](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f631.svg)

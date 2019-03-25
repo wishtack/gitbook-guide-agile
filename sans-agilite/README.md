@@ -47,7 +47,8 @@ De même, sans méthode de développement, plus le développement avance, plus l
 * Complexité artificielle _\(i.e. : développement inutile ou inutilisable\)_.
 * L'équipe est débordée par la correction de bugs.
   * La correction d'un bug en provoque un autre.
-* Plusieurs fonctionnalités en cours de développement mais aucune de finalisée.
+* Effet tunnel: Plusieurs fonctionnalités en cours de développement mais aucune de finalisée.
+* 👹_Integration Hell_.
 
 ## Conséquences organisationnelles et humaines
 
@@ -58,4 +59,5 @@ De même, sans méthode de développement, plus le développement avance, plus l
 * Problèmes de priorisation des tâches.
 * Décisions maladroites dans la panique.
 * Le "deadlock" humain.
+* _Analysis Paralysis_.
 

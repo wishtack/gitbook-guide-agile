@@ -4,13 +4,13 @@ Après 5 ans de développement d'applications, d'animation de formations et d'ac
 
 
 
-## Nos objectifs {#nos-objectifs}
+## Nos objectifs <a id="nos-objectifs"></a>
 
 * Produire **rapidement** des applications **performantes**, **robustes** et **maintenables**.
 * Privilégier le **pragmatisme** et mettre l'accent sur les **bonnes pratiques**.
 * Partager le fruit de nos heures de **veille**, de **recherche** et de nos **retours d'expérience**.
 
-## Copyright {#copyright}
+## Copyright <a id="copyright"></a>
 
 Ce livre est l'oeuvre et la propriété de la société Wishtack.
 

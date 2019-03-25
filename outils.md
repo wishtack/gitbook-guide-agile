@@ -42,19 +42,19 @@ Pour sélectionner l'outil adapté, en plus des fonctionnalités, il faut prendr
 
 Cloud, accès direct aux Commits de code associés à la User Story, **répartition automatique** du backlog sur les itérations à venir, API, etc... 
 
-{% embed data="{\"url\":\"https://www.pivotaltracker.com\",\"type\":\"link\",\"title\":\"Agile Project Management\",\"description\":\"Pivotal Tracker: The awesome, lightweight, agile project management tool for software teams. Get your 30-day Free Trial started today!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.pivotaltracker.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.pivotaltracker.com/homepage\_assets/pt\_logo\_spinner\_120-44e37b199b4567e61df4082a097c0a44819fcb5e4beabb2d0376b54ebf49e5b1.png\",\"width\":120,\"height\":120,\"aspectRatio\":1}}" %}
+{% embed url="https://www.pivotaltracker.com" %}
 
 ###  Codeminer42 Central : Alternative open-source de Pivotal Tracker
 
-{% embed data="{\"url\":\"https://github.com/Codeminer42/cm42-central\",\"type\":\"link\",\"title\":\"Codeminer42/cm42-central\",\"description\":\"cm42-central - Fork and Evolution of the Fulcrum project - An agile project planning tool and Pivotal Tracker drop-in replacement\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/1602924?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/Codeminer42/cm42-central" %}
 
 ### Agilefant
 
 Self-hosted ou cloud, arborescence de User Stories, différentes vues par rôle.
 
-{% embed data="{\"url\":\"http://www.agilefant.com\",\"type\":\"link\",\"title\":\"Align Goals and Work. Execute Change Faster \| Agilefant\",\"description\":\"Agilefant is a lean transformation tool that empowers your organization to execute change faster. Agilefant is the easiest tool for implementing SAFe®.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.agilefant.com/img/favicon/android-icon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.agilefant.com/wp-content/uploads/2015/11/trello-logo-blue-01-300x158.png\",\"width\":300,\"height\":158,\"aspectRatio\":0.5266666666666666}}" %}
+{% embed url="http://www.agilefant.com" %}
 
 ### Autres
 
-{% embed data="{\"url\":\"http://blog.capterra.com/agile-project-management-software/\",\"type\":\"link\",\"title\":\"7 of the Top Agile Project Management Software - Capterra Blog\",\"description\":\"Trying to find the right Agile project management software can be tough. Here are seven of the best.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blog.capterra.com/wp-content/themes/capterra25/assets/images/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://blog.capterra.com/wp-content/uploads/2015/04/feather.png\",\"width\":600,\"height\":383,\"aspectRatio\":0.6383333333333333}}" %}
+{% embed url="http://blog.capterra.com/agile-project-management-software/" %}
 

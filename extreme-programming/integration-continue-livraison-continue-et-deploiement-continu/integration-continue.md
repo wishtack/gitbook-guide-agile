@@ -19,7 +19,7 @@ Le diagnostic et la correction ont pris quelques secondes :
 
 Netflix raconte une fuite mémoire assez surprenante qui leur a couté une énergie considérable :
 
-{% embed data="{\"url\":\"https://medium.com/netflix-techblog/node-js-in-flames-ddd073803aa4\",\"type\":\"link\",\"title\":\"Node.js in Flames\",\"description\":\"Flame Graphs to the Rescue\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*ty4NvNrGg4ReETxqU2N3Og.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/2000/0\*nirxOP9EGHyf02L1.\",\"width\":1068,\"height\":337,\"aspectRatio\":0.3155430711610487}}" %}
+{% embed url="https://medium.com/netflix-techblog/node-js-in-flames-ddd073803aa4" %}
 
 ## Fonctionnement
 
