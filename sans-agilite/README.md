@@ -1,6 +1,6 @@
 # Sans Agilité
 
-## "Cycle" en racine carrée
+## "Cycle" en racine carrée ou la caricature à éviter
 
 ### Le client exprime son besoin
 
@@ -34,13 +34,40 @@ Avec le cycle en V, le coût du changement augmente au fil du temps à travers l
 
 Il est donc plus difficile et plus cher de remédier à une erreur de conception à la livraison qu'au début des développements.
 
-De même, sans méthode de développement, plus le développement avance, plus le code devient complexe et plus le changement est couteux.
+De même, sans méthode de développement, plus le développement avance, plus le code devient complexe et plus le changement est coûteux.
 
 
 
 ![Cost of change](../.gitbook/assets/cost-of-change.gif)
 
-## Conséquences techniques
+## Conséquences
+
+### Conséquences générales
+
+* _**Time to Market**_ **trop long**.
+* **Manque de visibilité** sur l'avancement.
+* **Pas de feedback** des clients et utilisateurs.
+* **Vélocité** de l'équipe **en diminution** permanente à cause des imprévus.
+* Absence de **Collective Ownership**.
+* Décisions maladroites dans la panique et augmentation exponentielle du stress à l'approche des deadlines.
+
+### Le paradoxe des spécifications
+
+L'objectif principal de la rédaction de spécifications est de réduire les risque.
+
+Paradoxalement, dans la plupart des cas, cela finit par **augmenter le risque et le coût au lieu de les réduire**.
+
+#### Inconvénients de la rédaction de spécifications
+
+* **Perte de temps** avant l'implémentation de la première fonctionnalité.
+* **Incompréhensions** et conflit à la livraison / validation.
+* **Déresponsabilisation** de l'équipe de développement car de nombreux choix sont figés par les spécifications.
+* Le **rapport valeur vs. coût** de chaque fonctionnalité est rarement _\(ou difficilement\)_ pris en compte.
+* Les besoins et contraintes ne sont probablement plus les mêmes entre le moment de la rédaction des spécifications et lors du développement de l'application.
+* Problèmes de priorisation.
+* **🤯** _**Over-thinking**_ **et** _**Analysis Paralysis**_.
+
+### Conséquences techniques
 
 * Peur du changement.
 * Développement empirique.
@@ -49,15 +76,4 @@ De même, sans méthode de développement, plus le développement avance, plus l
   * La correction d'un bug en provoque un autre.
 * Effet tunnel: Plusieurs fonctionnalités en cours de développement mais aucune de finalisée.
 * 👹_Integration Hell_.
-
-## Conséquences organisationnelles et humaines
-
-* Manque de satisfaction.
-* Tension et conflits.
-* Vélocité de l'équipe en diminution permanente.
-* Dé-responsabilisation des développeurs et compétition au sein même de l'équipe.
-* Problèmes de priorisation des tâches.
-* Décisions maladroites dans la panique.
-* Le "deadlock" humain.
-* _Analysis Paralysis_.
 
