@@ -55,13 +55,23 @@ De même, sans méthode de développement, plus le développement avance, plus l
 * **🏓 Pas de feedback** des clients et utilisateurs.
 * 😰 Décisions maladroites dans la panique et augmentation exponentielle du stress à l'approche des deadlines.
 
-### Le paradoxe des spécifications
+### Conséquences intermédiaires techniques
+
+* 🙀 Peur du changement.
+* 🤕 Développement empirique.
+* 🤯 Complexité artificielle _\(i.e. : développement inutile ou inutilisable\)_.
+* 👩‍🚒 L'équipe est débordée par la correction de bugs.
+  * La correction d'un bug en provoque un autre.
+* 🚇 Effet tunnel: Plusieurs fonctionnalités en cours de développement mais aucune de finalisée.
+* 👹 _Integration Hell_.
+
+## Le paradoxe des spécifications
 
 L'objectif principal de la rédaction de spécifications est de réduire les risques.
 
 Paradoxalement, dans la plupart des cas, cela finit par **augmenter le risque et le coût au lieu de les réduire**.
 
-#### Inconvénients de la rédaction de spécifications
+### Inconvénients de la rédaction de spécifications
 
 * **⌛️ Perte de temps** avant l'implémentation de la première fonctionnalité.
 * **🥊 Incompréhensions** et conflit à la livraison / validation.
@@ -71,13 +81,5 @@ Paradoxalement, dans la plupart des cas, cela finit par **augmenter le risque et
 * 🥇 Problèmes de priorisation.
 * **🤯** _**Over-thinking**_ **et** _**Analysis Paralysis**_.
 
-### Conséquences techniques
-
-* 🙀 Peur du changement.
-* 🤕 Développement empirique.
-* 🤯 Complexité artificielle _\(i.e. : développement inutile ou inutilisable\)_.
-* 👩‍🚒 L'équipe est débordée par la correction de bugs.
-  * La correction d'un bug en provoque un autre.
-* 🚇 Effet tunnel: Plusieurs fonctionnalités en cours de développement mais aucune de finalisée.
-* 👹 _Integration Hell_.
+### 
 
