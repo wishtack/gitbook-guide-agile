@@ -44,12 +44,12 @@ De même, sans méthode de développement, plus le développement avance, plus l
 
 ### Conséquences générales
 
-* _**Time to Market**_ **trop long**.
-* **Manque de visibilité** sur l'avancement.
-* **Pas de feedback** des clients et utilisateurs.
-* **Vélocité** de l'équipe **en diminution** permanente à cause des imprévus.
+* **⏱** _**Time to Market**_ **trop long**.
+* **🙈Manque de visibilité** sur l'avancement.
+* **🏓Pas de feedback** des clients et utilisateurs.
+* **🐢Vélocité** de l'équipe **en diminution** permanente à cause des imprévus.
 * Absence de **Collective Ownership**.
-* Décisions maladroites dans la panique et augmentation exponentielle du stress à l'approche des deadlines.
+* 😰Décisions maladroites dans la panique et augmentation exponentielle du stress à l'approche des deadlines.
 
 ### Le paradoxe des spécifications
 
@@ -59,21 +59,21 @@ Paradoxalement, dans la plupart des cas, cela finit par **augmenter le risque et
 
 #### Inconvénients de la rédaction de spécifications
 
-* **Perte de temps** avant l'implémentation de la première fonctionnalité.
-* **Incompréhensions** et conflit à la livraison / validation.
-* **Déresponsabilisation** de l'équipe de développement car de nombreux choix sont figés par les spécifications.
-* Le **rapport valeur vs. coût** de chaque fonctionnalité est rarement _\(ou difficilement\)_ pris en compte.
-* **Péremption des spécifications** : Les besoins et contraintes ne sont probablement plus les mêmes entre le moment de la rédaction des spécifications et lors du développement de l'application.
-* Problèmes de priorisation.
+* **⌛️ Perte de temps** avant l'implémentation de la première fonctionnalité.
+* **🥊 Incompréhensions** et conflit à la livraison / validation.
+* **🤷‍♂️ Déresponsabilisation** de l'équipe de développement car de nombreux choix sont figés par les spécifications.
+* 💰 Le **rapport valeur vs. coût** de chaque fonctionnalité est rarement _\(ou difficilement\)_ pris en compte.
+* **📜 Péremption des spécifications** : Les besoins et contraintes ne sont probablement plus les mêmes entre le moment de la rédaction des spécifications et lors du développement de l'application.
+* 🥇 Problèmes de priorisation.
 * **🤯** _**Over-thinking**_ **et** _**Analysis Paralysis**_.
 
 ### Conséquences techniques
 
-* Peur du changement.
-* Développement empirique.
-* Complexité artificielle _\(i.e. : développement inutile ou inutilisable\)_.
-* L'équipe est débordée par la correction de bugs.
+* 🙀 Peur du changement.
+* 🤕 Développement empirique.
+* 🤯 Complexité artificielle _\(i.e. : développement inutile ou inutilisable\)_.
+* 👩‍🚒 L'équipe est débordée par la correction de bugs.
   * La correction d'un bug en provoque un autre.
-* Effet tunnel: Plusieurs fonctionnalités en cours de développement mais aucune de finalisée.
-* 👹_Integration Hell_.
+* 🚇 Effet tunnel: Plusieurs fonctionnalités en cours de développement mais aucune de finalisée.
+* 👹 _Integration Hell_.
 
