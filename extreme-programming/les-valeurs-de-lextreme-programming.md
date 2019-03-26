@@ -1,4 +1,4 @@
-# Les Valeurs de l'eXtreme Programming
+# Valeurs de l'eXtreme Programming
 
 ### Communication
 

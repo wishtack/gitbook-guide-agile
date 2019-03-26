@@ -36,7 +36,7 @@
   * [Quelques Liens](scrum/quelques-liens.md)
 * [eXtreme Programming](extreme-programming/README.md)
   * [Apprendre à Conduire](extreme-programming/apprendre-a-conduire.md)
-  * [Les Valeurs de l'eXtreme Programming](extreme-programming/les-valeurs-de-lextreme-programming.md)
+  * [Valeurs de l'eXtreme Programming](extreme-programming/les-valeurs-de-lextreme-programming.md)
   * [Principes de l'eXtreme Programming](extreme-programming/principes-de-lextreme-programming.md)
   * [Testing](extreme-programming/testing.md)
   * [Intégration Continue, Livraison Continue et Déploiement Continu](extreme-programming/integration-continue-livraison-continue-et-deploiement-continu/README.md)

@@ -1,5 +1,11 @@
 # Principes de l'eXtreme Programming
 
+### Collective Ownership
+
+N'importe quel développeur doit pouvoir modifier n'importe quelle partie du produit à n'importe quel moment.
+
+**Le produit appartient à tous les membres** de l'équipe et **tout le monde est responsable** de l'ensemble.
+
 ### Pair Programming
 
 Si le Code Review est une bonne pratique alors faisons du Code Review en permanence via du Pair Programming.
@@ -47,7 +53,7 @@ Si le testing de l'environnement d'intégration _\(ou staging ou qualification o
 
 Cela facilite entre autres, la traçabilité des effets de bord et erreurs etc... et évite les problèmes classique d'**Integration Hell**.
 
-### Planning Game
+### Small Releases & Planning Game
 
 Si les itérations courtes sont préférables alors utilisons des itérations très très courtes se mesurant en secondes, en minutes et en heures plutôt qu'en semaines, mois ou années.
 
