@@ -46,8 +46,8 @@ De même, sans méthode de développement, plus le développement avance, plus l
 
 * **⏱** _**Time to Market**_ **trop long**.
 * **🐢 Les délais ne sont pas respectés** et le retard est découvert tardivement ****car la vélocité de l'équipe est rarement mesurée.
-* 😱 Inadéquation par rapport au besoin.
-* 🐞 Problèmes de qualité.
+* 😖 **Inadéquation** par rapport au besoin.
+* 🐞 **Problèmes de qualité**.
 
 ### Conséquences intermédiaires
 
