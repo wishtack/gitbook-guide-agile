@@ -47,7 +47,7 @@ De même, sans méthode de développement, plus le développement avance, plus l
 * **⏱** _**Time to Market**_ **trop long**.
 * **🙈 Manque de visibilité** sur l'avancement.
 * **🏓 Pas de feedback** des clients et utilisateurs.
-* **🐢 Les délais ne sont pas respectés** car la vélocité de l'équipe est rarement mesurée.
+* **🐢 Les délais ne sont pas respectés** et le retard est découvert tardivement ****car la vélocité de l'équipe est rarement mesurée.
 * 😰 Décisions maladroites dans la panique et augmentation exponentielle du stress à l'approche des deadlines.
 
 ### Le paradoxe des spécifications
