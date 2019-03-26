@@ -63,7 +63,7 @@ Paradoxalement, dans la plupart des cas, cela finit par **augmenter le risque et
 * **Incompréhensions** et conflit à la livraison / validation.
 * **Déresponsabilisation** de l'équipe de développement car de nombreux choix sont figés par les spécifications.
 * Le **rapport valeur vs. coût** de chaque fonctionnalité est rarement _\(ou difficilement\)_ pris en compte.
-* Les besoins et contraintes ne sont probablement plus les mêmes entre le moment de la rédaction des spécifications et lors du développement de l'application.
+* **Péremption des spécifications** : Les besoins et contraintes ne sont probablement plus les mêmes entre le moment de la rédaction des spécifications et lors du développement de l'application.
 * Problèmes de priorisation.
 * **🤯** _**Over-thinking**_ **et** _**Analysis Paralysis**_.
 
