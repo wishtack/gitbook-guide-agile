@@ -6,7 +6,7 @@ Contrairement donc aux idées reçues, l'eXtreme Programming n'est pas une méth
 
 En plus des principes communs avec le Scrum, l'eXtreme Programming **aborde d'autres aspects complémentaires** concernant la **qualité de développement** _\(design, développement, pair programming, refactoring et testing\)_.
 
-Le nom eXtreme Programming vient de l'idée de **pousser toutes les bonnes pratiques de développement habituelles à l'extreme**. Cf. [Principes de l'eXtreme Programming](principes-de-l-extreme-programming.md).
+Le nom eXtreme Programming vient de l'idée de **pousser toutes les bonnes pratiques de développement habituelles à l'extreme**. Cf. [Principes de l'eXtreme Programming](pratiques-de-l-extreme-programming.md).
 
 Malheureusement, le nom de la méthode en a effrayé plus d'un et Kent BECK reconnait que le nom est mal choisi.
 

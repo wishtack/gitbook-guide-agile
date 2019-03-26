@@ -1,4 +1,4 @@
-# Principes de l'eXtreme Programming
+# Pratiques de l'eXtreme Programming
 
 ### Collective Ownership
 

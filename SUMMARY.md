@@ -37,7 +37,7 @@
 * [eXtreme Programming](extreme-programming/README.md)
   * [Apprendre à Conduire](extreme-programming/apprendre-a-conduire.md)
   * [Valeurs de l'eXtreme Programming](extreme-programming/valeurs-de-l-extreme-programming.md)
-  * [Principes de l'eXtreme Programming](extreme-programming/principes-de-l-extreme-programming.md)
+  * [Pratiques de l'eXtreme Programming](extreme-programming/pratiques-de-l-extreme-programming.md)
   * [Testing](extreme-programming/testing.md)
   * [Intégration Continue, Livraison Continue et Déploiement Continu](extreme-programming/integration-continue-livraison-continue-et-deploiement-continu/README.md)
     * [Intégration Continue](extreme-programming/integration-continue-livraison-continue-et-deploiement-continu/integration-continue.md)
