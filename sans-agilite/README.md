@@ -45,10 +45,10 @@ De même, sans méthode de développement, plus le développement avance, plus l
 ### Conséquences générales
 
 * **⏱** _**Time to Market**_ **trop long**.
-* **🙈Manque de visibilité** sur l'avancement.
-* **🏓Pas de feedback** des clients et utilisateurs.
-* **🐢Vélocité** de l'équipe **en diminution** permanente à cause des imprévus.
-* 😰Décisions maladroites dans la panique et augmentation exponentielle du stress à l'approche des deadlines.
+* **🙈 Manque de visibilité** sur l'avancement.
+* **🏓 Pas de feedback** des clients et utilisateurs.
+* **🐢 Vélocité** de l'équipe **en diminution** permanente à cause des imprévus.
+* 😰 Décisions maladroites dans la panique et augmentation exponentielle du stress à l'approche des deadlines.
 
 ### Le paradoxe des spécifications
 
