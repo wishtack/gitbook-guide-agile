@@ -48,12 +48,11 @@ De même, sans méthode de développement, plus le développement avance, plus l
 * **🙈Manque de visibilité** sur l'avancement.
 * **🏓Pas de feedback** des clients et utilisateurs.
 * **🐢Vélocité** de l'équipe **en diminution** permanente à cause des imprévus.
-* Absence de **Collective Ownership**.
 * 😰Décisions maladroites dans la panique et augmentation exponentielle du stress à l'approche des deadlines.
 
 ### Le paradoxe des spécifications
 
-L'objectif principal de la rédaction de spécifications est de réduire les risque.
+L'objectif principal de la rédaction de spécifications est de réduire les risques.
 
 Paradoxalement, dans la plupart des cas, cela finit par **augmenter le risque et le coût au lieu de les réduire**.
 
