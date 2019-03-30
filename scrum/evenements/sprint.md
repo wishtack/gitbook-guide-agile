@@ -18,5 +18,5 @@ La durée ne varie pas d'un sprint à l'autre.
 Dans le cas des équipes travaillant sur plusieurs produits, il est recommandé d'appliquer la même durée.
 {% endhint %}
 
-![Scrum \(Source: mm1.com\)](../../.gitbook/assets/scrum.png)
+![Scrum \(source: mm1.com\)](../../.gitbook/assets/scrum.png)
 

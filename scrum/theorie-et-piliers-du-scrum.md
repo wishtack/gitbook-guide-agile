@@ -30,7 +30,7 @@ Exemples :
 
 L'organisation de l'équipe, le produit, les Backlogs et les différentes métriques doivent être diagnostiqués afin d'améliorer continuellement les process. Cf. [Indicateurs](../indicateurs.md).
 
-Toute la Scrum Team contribue à l'inspection et peut signaler des axes d'amélioration lors des différents évènements Scrum : Sprint Planning, Daily Scrum, Sprint Review et particulièrement le Sprint Retrospective.
+Toute la Scrum Team contribue à l'inspection et peut signaler des axes d'amélioration lors des différents événements Scrum : Sprint Planning, Daily Scrum, Sprint Review et particulièrement le Sprint Retrospective.
 
 ### Adaptation
 
