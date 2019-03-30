@@ -12,6 +12,8 @@ C'est une équipe **autonome** et **autogérée** composée généralement de 3 
 
 Elle doit être protégée au maximum de toutes distractions externes _\(réunions superflues / interactions excessives avec le client ou d'autres équipes / téléphone / messagerie interne\)_.
 
+![Alignment vs Autonomy \(source: Spotify\)](../.gitbook/assets/alignment-vs-autonomy.png)
+
 ## Product Owner
 
 **Qualités attendues :** vision et disponibilité.
