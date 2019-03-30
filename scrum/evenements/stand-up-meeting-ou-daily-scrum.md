@@ -50,7 +50,7 @@ De même, **tout le monde n'est pas obligé de parler** et à tour de rôle car 
 
   Le Stand-Up Meeting doit rester informel et si certains sont plus bavards que d'autres, l'équipe peut décider de laisser les bavards parler à la fin tout en les encourageant à respecter le timeboxing.  
 
-* **Evitez le** "**token**" de parole ! Le token de parole est un objet que l'on passe d'une personne à l'autre pour indiquer qui a la parole. Cela permet à tous les membres de parler et d'éviter les interruptions or un bon Stand-Up Meeting est celui où il y a des quelques interruptions car cela signifie que les autres s'intéressent au sujet. D'autre part, comme indiqué plus loin, avec un Spring Goal convergeant, tout le monde n'est pas obligé de parler.
+* **Evitez le** "**totem**" de parole ! Le token de parole est un objet que l'on passe d'une personne à l'autre pour indiquer qui a la parole. Cela permet à tous les membres de parler et d'éviter les interruptions or un bon Stand-Up Meeting est celui où il y a des quelques interruptions car cela signifie que les autres s'intéressent au sujet. D'autre part, comme indiqué plus loin, avec un Spring Goal convergeant, tout le monde n'est pas obligé de parler.
 
 
 
