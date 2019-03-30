@@ -4,15 +4,19 @@
 
 Le modèle de Kano définit trois catégories pour les attributs d'un produit _\(ou service\)_ :
 
-### **Threshold Attributes \(Basics\)**
+### **Threshold Attributes** _**\(Basics\)**_
 
-Ces attributs représentent les fonctionnalités basiques que le consommateur attend absolument du produit.
+Ces attributs représentent les fonctionnalités basiques que **le consommateur attend absolument du produit.**
 
-### **Performance Attributes \(Satisfiers\)**
+### **Performance Attributes** _**\(Satisfiers\)**_
 
-Coming soon...
+Les _Performance Attributes_ regroupent les fonctionnalités dont on considère que **l'aboutissement est proportionnel à la satisfaction**.
 
-### **Excitement Attributes \(Delighters\)**
+Plus la fonctionnalité est aboutie, plus le client devrait être satisfait.
 
-Coming soon...
+### **Excitement Attributes** _**\(Delighters\)**_
+
+Ces fonctionnalités **ne sont pas indispensables**.
+
+En revanche, elles peuvent **facilement améliorer la satisfaction** du consommateur et le **surprendre positivement**.
 
