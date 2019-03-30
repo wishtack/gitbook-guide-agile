@@ -16,6 +16,8 @@ A minima, les parties les plus complexes du code doivent être développées en 
 
 Le Pair Programming garantit une meilleure qualité de développement et encourage la propagation d'informations dans l'équipe.
 
+![Le pair programming et le collective ownership &#xE9;vitent au d&#xE9;veloppeur de succomber au c&#xF4;t&#xE9; obscure.](../.gitbook/assets/yoda-dark-side-is-easier.jpg)
+
 ### Testing
 
 S'il est bien de tester le produit alors laissons tout le monde tester tout le temps via des tests unitaires automatisés, même les clients avec des tests fonctionnels.
