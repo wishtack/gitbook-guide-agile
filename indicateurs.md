@@ -30,7 +30,7 @@ Cela peut se faire en proposant à chaque membre de répondre à ces questions �
 [https://blog.agilistic.nl/agile-teams-dont-use-happiness-metrics-measure-team-morale/](https://blog.agilistic.nl/agile-teams-dont-use-happiness-metrics-measure-team-morale/)
 
 {% hint style="warning" %}
-Evitez le Niko Niko Calendar !
+Evitez le Niko Niko Calendar. Ce dernier peut nuire au moral de l'équipe.
 
 [https://www.tinypulse.com/blog/sk-niko-niko-calendar-workplace-morale](https://www.tinypulse.com/blog/sk-niko-niko-calendar-workplace-morale)
 {% endhint %}
@@ -40,7 +40,7 @@ Evitez le Niko Niko Calendar !
 {% embed url="https://blog.wishtack.com/2018/04/04/l-isolement-ou-le-mal-qui-ronge-votre-equipe/" %}
 
 * Vos développeurs travaillent-ils avec des boucliers d’interaction sociale \(A.K.A. casques audios\) ?
-* Entendez-vous du vocabulaire possessif au sein de l’équipe tel que “ton outil ne marche plus”; “mon code”; “j’ai fini ma story”; “ah non ! je ne toucherai pas à ça, c’est machin qui s’en occupe”; ”ce code/cette application/cet outil, c’est mon bébé !” ![&#x1F631;](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f631.svg)
+* Entendez-vous du vocabulaire possessif au sein de l’équipe tel que “ton outil ne marche plus”; “mon code”; “j’ai fini ma story”; “ah non ! je ne toucherai pas à ça, c’est machin qui s’en occupe”; ”ce code/cette application/cet outil, c’est mon bébé !” 😱
 * L’absence de certaines personnes clées peut-elle aboutir au blocage ou au ralentissement considérable de l’équipe ?
 * Votre équipe peut-elle survivre avec 50% de l’effectif ?
 * Est-ce que les développeurs sont capables de différencier le code qu’ils ont produits de celui des autres ?
