@@ -2,6 +2,8 @@
 
 ## Spotify Engineering Culture
 
+![Spotify Squad Framework](../.gitbook/assets/spotify-squad-framework.png)
+
 {% embed url="https://vimeo.com/85490944" caption="Spotify Engineering Culture - Part 1" %}
 
 {% embed url="https://vimeo.com/94950270" caption="Spotify Engineering Culture - Part 2" %}

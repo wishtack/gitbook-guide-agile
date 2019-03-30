@@ -14,6 +14,8 @@ Elle doit être protégée au maximum de toutes distractions externes _\(réunio
 
 ![Alignment vs Autonomy \(source: Spotify\)](../.gitbook/assets/alignment-vs-autonomy.png)
 
+![Highly Aligned &amp; Loosely Coupled \(source: Spotify\)](../.gitbook/assets/spotify-integration-hell.png)
+
 ## Product Owner
 
 **Qualités attendues :** vision et disponibilité.

@@ -67,6 +67,8 @@ Commencez progressivement par vous imposer d'intégrer les changements au moins 
 On peut aller jusqu'à des centaines de changements par jour. Cf. _Test && Commit \|\| Revert_ et le _Limbo_. [https://medium.com/@kentbeck\_7670/test-commit-revert-870bbd756864](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
 {% endhint %}
 
+![Small &amp; Frequent Release \(source: Spotify\)](../.gitbook/assets/spotify-frequent-release.png)
+
 ![L&apos;int&#xE9;gration continue et fr&#xE9;quente aurait pu &#xE9;viter cette situation.](../.gitbook/assets/git-push-in-case-of-fire.jpeg)
 
 ### Small Releases & Planning Game
