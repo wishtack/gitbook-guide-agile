@@ -34,6 +34,8 @@
     * [Burn Up Chart](scrum/mesures-et-outils/burn-up-chart.md)
     * [Technical Debt](scrum/mesures-et-outils/technical-debt.md)
   * [Quelques Liens](scrum/quelques-liens.md)
+* [Priorisation & Planning](priorisation-and-planning/README.md)
+  * [Le Modèle de Kano](priorisation-and-planning/le-modele-de-kano.md)
 * [eXtreme Programming](extreme-programming/README.md)
   * [Apprendre à Conduire](extreme-programming/apprendre-a-conduire.md)
   * [Valeurs de l'eXtreme Programming](extreme-programming/valeurs-de-l-extreme-programming.md)
