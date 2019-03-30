@@ -1,4 +1,6 @@
 # Le Modèle de Kano
 
-Coming soon...
+![Reproduction du diagramme de Noriaki Kano par Mind Tools. \(Source: mindtools.com\)](../.gitbook/assets/kano.png)
+
+
 
