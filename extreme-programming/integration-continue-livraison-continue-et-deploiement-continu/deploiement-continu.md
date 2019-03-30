@@ -8,3 +8,5 @@ Le Déploiement Continu ne peut être efficace que si le produit dispose d'un je
 
 La validation manuelle est toujours possible mais en utilisant une approche à base de [Review Apps](review-apps.md).
 
+![Code Inventory: Deliver your code before it&apos;s too late.](../../.gitbook/assets/deliver-your-code-before-its-too-late.jpg)
+
