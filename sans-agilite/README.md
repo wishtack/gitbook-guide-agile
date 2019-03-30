@@ -1,6 +1,6 @@
 # Sans Agilité
 
-## "Cycle" en racine carrée ou la caricature à éviter
+## "Cycle" en Racine Carrée ou la Caricature à Éviter
 
 ### Le client exprime son besoin
 
