@@ -8,6 +8,8 @@ N'importe quel développeur doit pouvoir modifier n'importe quelle partie du pro
 
 **Le produit appartient à tous les membres** de l'équipe et **tout le monde est responsable** de l'ensemble.
 
+![Plusieurs d&#xE9;veloppeurs travaillant simultan&#xE9;ment sur la m&#xEA;me fonctionnalit&#xE9;.](../.gitbook/assets/gitlab-team-work.png)
+
 ### Pair Programming
 
 Si le Code Review est une bonne pratique alors faisons du Code Review en permanence via du Pair Programming.
