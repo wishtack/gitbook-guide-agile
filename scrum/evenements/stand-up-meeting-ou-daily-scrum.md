@@ -45,14 +45,14 @@ De même, **tout le monde n'est pas obligé de parler** et à tour de rôle car 
   * Dans le cas où les Stand-Up Meeting durent longtemps, il faut apprendre à les raccourcir plutôt que d'en organiser un tous les deux ou trois jours.
   * Le Stand-Up Meeting à lieu au même endroit et à la même heure **même si seulement deux personnes sont présentes** et que les autres ont simplement du retard. 
 * **Ne rédigez pas de rapport** de Stand-Up Meeting ! 
-* **Evitez les écrans** _\(ordis, smartphones, tablets, projecteurs, etc...\)_ ! 
+* **Evitez les écrans** _\(ordis, smartphones, tablets, projecteurs, etc...\)_ sauf peut-être un snapshot de l'état actuel de l'[Sprint Backlog](../artefacts/sprint-backlog.md). 
 * **Evitez le chronométrage individuel** !
 
   Le Stand-Up Meeting doit rester informel et si certains sont plus bavards que d'autres, l'équipe peut décider de laisser les bavards parler à la fin tout en les encourageant à respecter le timeboxing.  
 
-* **Evitez le** "**token**" de parole ! Le token de parole est un objet que l'on passe d'une personne à l'autre pour indiquer qui a la parole. Cela permet à tout les membres de parler et d'éviter les interruptions or un bon Stand-Up Meeting est celui où il y a des interruptions car cela signifie que les autres s'intéressent au sujet. D'autre part, comme indiqué plus loin, avec un Spring Goal convergeant, tout le monde n'est pas obligé de parlé. 
+* **Evitez le** "**token**" de parole ! Le token de parole est un objet que l'on passe d'une personne à l'autre pour indiquer qui a la parole. Cela permet à tous les membres de parler et d'éviter les interruptions or un bon Stand-Up Meeting est celui où il y a des quelques interruptions car cela signifie que les autres s'intéressent au sujet. D'autre part, comme indiqué plus loin, avec un Spring Goal convergeant, tout le monde n'est pas obligé de parler.
 
-## 
+
 
 
 
