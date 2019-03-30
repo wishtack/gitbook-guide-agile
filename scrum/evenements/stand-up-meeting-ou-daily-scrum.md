@@ -1,6 +1,6 @@
 # Stand-Up Meeting ou Daily Scrum
 
-Le Stand-Up Meeting _\(ou Daily Scrum\)_ est **un point informel** qui se tient tous les jours debout et à la même heure  _\(autour d'un café par exemple\)_.
+Le Stand-Up Meeting _\(ou Daily Scrum\)_ est **un point informel** qui se tient tous les jours debout et à la même heure _\(autour d'un café par exemple\)_.
 
 En présence du Scrum Master, durant le Stand-Up Meeting chaque membre de l'équipe aborde les points suivants :
 
