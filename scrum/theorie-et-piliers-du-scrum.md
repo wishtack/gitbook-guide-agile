@@ -22,7 +22,7 @@ Tous les éléments significatifs du process doivent être visible et compréhen
 
 Exemples :
 
-* Les User Stories doivent êtres explicites pour tous.
+* Les User Stories doivent être explicites pour tous.
 * La notion de definition of "Done" doit être partagée avec tous.
 * La progression est accessible à tous.
 
