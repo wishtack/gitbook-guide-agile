@@ -25,5 +25,5 @@ L'évaluation de **la durée d'un trajet en voiture est souvent erronée** à ca
 
 **La distance du trajet quand à elle est fixe** ; combinée avec la vitesse moyenne du véhicule, elle permet de déduire la durée moyenne du trajet de façon plus précise.
 
-OK, mais **comment évaluer le coût d'un produit et les dates de livraisons** sont jamais compter les heures de travail ? Cf. [Vélocité](velocite.md).
+OK, mais **comment évaluer le coût d'un produit et les dates de livraisons** sans jamais compter les heures de travail ? Cf. [Vélocité](velocite.md).
 
