@@ -59,6 +59,16 @@ Si le testing de l'environnement d'intégration _\(ou staging ou qualification o
 
 Cela facilite entre autres, la traçabilité des effets de bord et erreurs etc... et évite les problèmes classique d'**Integration Hell**.
 
+{% hint style="success" %}
+L'intégration continue n'est pas suffisante, il faut intégrer les changements le plus fréquemment possible.
+
+Commencez progressivement par vous imposer d'intégrer les changements au moins une fois par journée puis une fois par demi-journée jusqu'à atteindre des dizaines de changements par jour et par développeur.
+
+On peut aller jusqu'à des centaines de changements par jour. Cf. _Test && Commit \|\| Revert_ et le _Limbo_. [https://medium.com/@kentbeck\_7670/test-commit-revert-870bbd756864](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
+{% endhint %}
+
+![L&apos;int&#xE9;gration continue et fr&#xE9;quente aurait pu &#xE9;viter cette situation.](../.gitbook/assets/git-push-in-case-of-fire.jpeg)
+
 ### Small Releases & Planning Game
 
 Si les itérations courtes sont préférables alors utilisons des itérations très très courtes se mesurant en secondes, en minutes et en heures plutôt qu'en semaines, mois ou années.
