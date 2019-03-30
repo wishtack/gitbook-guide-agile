@@ -15,7 +15,7 @@ Les membres de la Scrum Team doivent avoir le courage d'affronter la réalité e
 Tout le monde doit se focaliser sur le Sprint Goal et les objectifs de la Scrum Team en général.
 
 {% hint style="success" %}
-Un Sprint Goal convergeant favorise naturellement la communication dans l'équipe et l'appropriation collaborative.
+Un Sprint Goal convergeant favorise naturellement la communication dans l'équipe et le [**Collective Ownership**](../extreme-programming/pratiques-de-l-extreme-programming.md#collective-ownership).
 {% endhint %}
 
 ### Openness
@@ -24,5 +24,5 @@ Les membres de la Scrum Team et les responsables doivent rester ouverts au chang
 
 ### Respect
 
-Les membres de la Scrum Team doivent se respecter mutuellement en tant qu'individu compétent et indépendant.
+Les membres de la Scrum Team doivent se respecter mutuellement en tant qu'individus **compétents**, **différents** et **indépendants**.
 
