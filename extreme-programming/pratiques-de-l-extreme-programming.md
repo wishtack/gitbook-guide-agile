@@ -1,5 +1,7 @@
 # Pratiques de l'eXtreme Programming
 
+![The practices support each other. \(source: eXtreme Programming Explained\)](../.gitbook/assets/extreme-programming-practices.png)
+
 ### Collective Ownership
 
 N'importe quel développeur doit pouvoir modifier n'importe quelle partie du produit à n'importe quel moment.
