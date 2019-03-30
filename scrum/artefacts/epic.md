@@ -9,5 +9,5 @@ Il faut décomposer l'Epic **le plus tard possible pour plusieurs raisons** :
 
 * **Gain de temps** lors du remplissage du Product Backlog.
 * Le besoin peut être amené à **disparaitre**.
-* La décomposition de l'Epic peut **réutiliser** des fonctionnalités déjà implémentés **ou de nouvelles avancées technologiques**.
+* La décomposition de l'Epic peut **réutiliser** des fonctionnalités déjà implémentées **ou de nouvelles avancées technologiques**.
 
