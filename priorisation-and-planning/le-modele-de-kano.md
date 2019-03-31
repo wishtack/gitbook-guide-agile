@@ -24,6 +24,8 @@ Ces fonctionnalités sont **inattendues** par le consommateur et **elles ne sont
 
 En revanche, elles peuvent **facilement améliorer la satisfaction** du consommateur **en le surprenant positivement**.
 
+Exemple : fullscreen, split screen mode, flexible screen & built-in projector.
+
 {% hint style="info" %}
 Au fil du temps, de l'évolution du produit et du marché, **les Excitement Attributes se transforment progressivement en Threshold Attributes**.
 {% endhint %}
