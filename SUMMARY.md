@@ -38,6 +38,7 @@
   * [Le Modèle de Kano](priorisation-and-planning/le-modele-de-kano.md)
   * [La Méthode MoSCoW](priorisation-and-planning/la-methode-moscow.md)
   * [Release Planning](priorisation-and-planning/release-planning.md)
+  * [User Story Mapping](priorisation-and-planning/user-story-mapping.md)
 * [eXtreme Programming](extreme-programming/README.md)
   * [Apprendre à Conduire](extreme-programming/apprendre-a-conduire.md)
   * [Valeurs de l'eXtreme Programming](extreme-programming/valeurs-de-l-extreme-programming.md)
