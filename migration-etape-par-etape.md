@@ -49,7 +49,13 @@ Nous préférons ces échelles pour les raisons suivantes :
 
 ### Work-In-Progress Limit
 
-Définir un [WIP limit](kanban/workflow.md#work-in-progress-limit) permet relativement bas encourage naturellement le Collective Ownership, le Pair Programming et favorise la communication.
+Définir un [WIP limit](kanban/workflow.md#work-in-progress-limit) relativement bas encourage naturellement le Collective Ownership, le Pair Programming et favorise la communication.
+
+A vous d'expérimenter, mesurer et trouver le WIP limit qui vous convient mais la formule suivante est généralement un bon point de départ :
+
+$$
+wiplimit = floor(teamsize / 2)
+$$
 
 
 
