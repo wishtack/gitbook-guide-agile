@@ -111,3 +111,9 @@ Organisez des [Sprint Review](scrum/evenements/sprint-review.md) même en l'abse
 
 Certaines entreprises affichent les horaires de [Sprint Review](scrum/evenements/sprint-review.md) des différentes équipes dans leurs couloirs.
 
+## Transparence et Propagation
+
+Soyez transparents et sincères !
+
+Expliquez votre approche avec les autres équipes et partagez votre expérience !
+
