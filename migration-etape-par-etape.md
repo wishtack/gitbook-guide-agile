@@ -26,7 +26,7 @@ Si vous avez besoin d'itérations plus longues, posez-vous d'abord les questions
 **Des itérations plus longues nécessitent plus de préparation** et des [Sprint Planning](scrum/evenements/sprint-planning.md) plus longs. Si lors du [Spring Planning](scrum/evenements/sprint-planning.md), vous ne préparez qu'une partie de l'itération en attendant le prochain [Backlog Refinement](scrum/evenements/backlog-refinement.md), vous êtes peut-être en train de créer une itération au sein de l'itération 😉
 {% endhint %}
 
-### Choix de l'Échelle de Points _\(ou Point Scale\)_
+### Échelle de Points _\(ou Point Scale\)_
 
 Il est nécessaire de sélectionner un _Point Scale_ pour évaluer l'[effort](scrum/mesures-et-outils/story-points-vs-temps.md) nécessaire pour chaque [User Story](scrum/artefacts/user-story.md).
 
@@ -83,13 +83,17 @@ Recrutez progressivement !
 
 Une **rencontre avec l'intégralité de l'équipe** pourrait être l'avant dernière étape de recrutement ; la dernière étant **une semaine d'essai au sein de l'équipe**.
 
+### Indicateurs
+
+Pensez à choisir et mesurer vos [indicateurs](indicateurs.md) avant de démarrer !
+
 ## Rencontre Directe avec le Client et les Utilisateurs
 
 ### **Pas d'Intermédiaires**
 
 Le _Product Owner_ ne doit pas être un intermédiaire entre l'équipe et le client.
 
-Généralement, il faut éviter les intermédiaires car inconsciemment, **l'information sera toujours déformée et filtrée.**
+Généralement, il faut éviter les intermédiaires car inconsciemment **l'information sera toujours déformée et filtrée.**
 
 Il est donc important que l'intégralité de l'équipe et le client puissent échanger au moins lors du [Sprint Review](scrum/evenements/sprint-review.md).
 
@@ -99,17 +103,11 @@ Faites tout de même **attention aux clients envahissants** !
 
 Organiser des rencontres et échanges directs entre une sélection d'utilisateurs finaux et l'équipe permet de démystifier de nombreux aspects concernant l'utilisation du produit.
 
-La rencontre fournit un indicateur qualitatif supplémentaire.
+La rencontre fournit donc un indicateur qualitatif supplémentaire.
 
 ## Sprint Review
 
 Organisez des [Sprint Review](scrum/evenements/sprint-review.md) même en l'absence du client et **invitez d'autres équipes** ou les curieux.
 
 Certaines entreprises affichent les horaires de [Sprint Review](scrum/evenements/sprint-review.md) des différentes équipes dans leurs couloirs.
-
-## Indicateurs
-
-Choisissez et mesurez vos [indicateurs](indicateurs.md) !
-
-
 
