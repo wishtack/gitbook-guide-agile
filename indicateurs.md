@@ -24,7 +24,7 @@ Exemples : tâches manuelles, pointage, paperwork etc...
 Cela peut révéler un "process" inutile ou l'absence d'outils adaptés.
 
 {% hint style="info" %}
-Une heure sur une tâche "ingrate" est plus coûteuse qu'une heure sur une tâche utile. 
+_**Negativity Bias**_ : Une heure sur une tâche "ingrate" est plus coûteuse qu'une heure sur une tâche utile. 
 {% endhint %}
 
 ### Moral de l'équipe
