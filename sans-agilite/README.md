@@ -42,20 +42,20 @@ De même, sans méthode de développement, plus le développement avance, plus l
 
 ## Conséquences
 
-### Conséquences générales
+### Conséquences Générales
 
-* **⏱** _**Time to Market**_ **trop long**.
-* **🐢 Les délais ne sont pas respectés** et le retard est découvert tardivement ****car la vélocité de l'équipe est rarement mesurée.
+* **🐢** _**Time to Market**_ **trop long**.
+* **⌛️ Les délais ne sont pas respectés** et le retard est découvert tardivement ****car la vélocité de l'équipe est rarement mesurée.
 * 😖 **Inadéquation** par rapport au besoin.
 * 🐞 **Problèmes de qualité**.
 
-### Conséquences intermédiaires
+### Conséquences Intermédiaires
 
 * **🙈 Manque de visibilité** sur l'avancement.
 * **🏓 Pas de feedback** des clients et utilisateurs.
 * 😰 Décisions maladroites dans la panique et augmentation exponentielle du stress à l'approche des deadlines.
 
-### Conséquences intermédiaires techniques
+### Conséquences Intermédiaires Techniques
 
 * 🙀 Peur du changement.
 * 🤕 Développement empirique.
@@ -64,6 +64,15 @@ De même, sans méthode de développement, plus le développement avance, plus l
   * La correction d'un bug en provoque un autre.
 * 🚇 Effet tunnel: Plusieurs fonctionnalités en cours de développement mais aucune de finalisée.
 * 👹 _Integration Hell_.
+
+### Causes
+
+* ⚽️Absence de [Collective Ownership](../extreme-programming/pratiques-de-l-extreme-programming.md#collective-ownership).
+* **🗜**Absence d'[intégration continue](../extreme-programming/integration-continue-livraison-continue-et-deploiement-continu/integration-continue.md).
+* 📦Absence de [livraison continue](../extreme-programming/integration-continue-livraison-continue-et-deploiement-continu/livraison-continue.md).
+* 🎯Manque de propagation et de compréhension de la vision.
+* 📝Manque de conventions et pratiques de développement.
+* 📈**HiPPO** _\(Highest Paid Person’s Opinion\)_, **Ego-Driven** Decision et **Tradition-Driven** Decision au lieu de Data-Driven Decision.
 
 ## Le paradoxe des spécifications
 
