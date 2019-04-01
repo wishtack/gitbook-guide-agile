@@ -16,6 +16,17 @@ La volatilité de la vélocité indique la déviance de la vélocité par rappor
 
 Si la vélocité n'est pas stable alors il y a probablement un problème dans la façon dont l'effort est estimé ou alors les User Stories sont de taille trop importante.
 
+### Gaspillage
+
+Mesurez l'intérêt et le temps perdu dans les tâches "ingrates" ou celles qui semblent inutiles.  
+Exemples : tâches manuelles, pointage, paperwork etc...
+
+Cela peut révéler un "process" inutile ou l'absence d'outils adaptés.
+
+{% hint style="info" %}
+Une heure sur une tâche "ingrate" est plus coûteuse qu'une heure sur une tâche utile. 
+{% endhint %}
+
 ### Moral de l'équipe
 
 Pensez à mesurer l'humeur ou encore mieux le moral de l'équipe.
