@@ -57,5 +57,7 @@ $$
 wiplimit = floor(teamsize / 2)
 $$
 
+## Definition of Done
 
+L'équipe doit définir son propre [Definition of Done](scrum/artefacts/definition-of-done.md) puis l'**enrichir en fonction de son expérience** et ses erreurs.
 
