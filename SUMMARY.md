@@ -63,5 +63,6 @@
   * [Management](transformation-agile/management.md)
   * [Scrum of Scrums](transformation-agile/scrum-of-scrums.md)
   * [Agile at Scale](transformation-agile/quelques-liens.md)
+* [Transformation Etape par Etape](migration-etape-par-etape.md)
 * [Outils](outils.md)
 
