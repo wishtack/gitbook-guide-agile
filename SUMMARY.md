@@ -17,6 +17,7 @@
     * [Epic](scrum/artefacts/epic.md)
     * [Expression du Besoin](scrum/artefacts/expression-du-besoin.md)
     * [Definition of Done](scrum/artefacts/definition-of-done.md)
+    * [Definition of Ready](scrum/artefacts/definition-of-ready.md)
   * [Evénements](scrum/evenements/README.md)
     * [Sprint](scrum/evenements/sprint.md)
     * [Sprint Planning](scrum/evenements/sprint-planning.md)

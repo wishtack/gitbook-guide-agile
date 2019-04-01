@@ -59,5 +59,9 @@ $$
 
 ## Definition of Done
 
-L'équipe doit définir son propre [Definition of Done](scrum/artefacts/definition-of-done.md) puis l'**enrichir en fonction de son expérience** et ses erreurs.
+L'équipe doit définir **son propre** [**Definition of Done**](scrum/artefacts/definition-of-done.md) puis l'**enrichir en fonction de son expérience** et ses erreurs.
+
+## Definition of Ready
+
+De même que pour le [Definition of Done](scrum/artefacts/definition-of-done.md), l'équipe doit définir et maintenir son [Definition of Ready](scrum/artefacts/definition-of-ready.md).
 
