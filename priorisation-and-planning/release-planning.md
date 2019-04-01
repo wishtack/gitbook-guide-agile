@@ -51,3 +51,16 @@ Grâce aux prérequis définis ci-dessus, il suffit de déduire les dates de liv
 
 ![Exemple de Release Planning avec releases sur Pivotal Tracker](../.gitbook/assets/pivotal-tracker-release.png)
 
+{% hint style="info" %}
+Grâce au calcul de vélocité et l'estimation des _User Stories_ à venir, on constate à l'avance qu'il ne sera pas possible d'inclure la fonctionnalité "...share wishlist" à la date du 5 mai.
+
+Deux possibilités s'offrent à nous :  
+- Reporter la Release "v3" à la semaine suivante.  
+- Reporter la fonctionnalité à une autre Release.  
+- Reporter ou annuler une autre fonctionnalité.
+{% endhint %}
+
+
+
+
+
