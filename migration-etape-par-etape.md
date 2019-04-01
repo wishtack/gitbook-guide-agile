@@ -65,3 +65,51 @@ L'équipe doit définir **son propre** [**Definition of Done**](scrum/artefacts/
 
 De même que pour le [Definition of Done](scrum/artefacts/definition-of-done.md), l'équipe doit définir et maintenir son [Definition of Ready](scrum/artefacts/definition-of-ready.md).
 
+## Préparation de la Première Itération
+
+### Premières _User Stories_
+
+Définissez les premières [User Stories](scrum/artefacts/user-story.md) conformément au [Definition of Ready](scrum/artefacts/definition-of-ready.md) ; lors d'une session de [User Story Mapping](priorisation-and-planning/user-story-mapping.md) par exemple.
+
+### Choix des Technologies et Outils _\(si applicable\)_
+
+Si vous devez choisir les technologies et outils à utiliser, focalisez-vous sur la simplicité, la maintenabilité et la facilité de changer plus tard.
+
+Pensez à vous faire accompagner dans ce choix.
+
+### Recrutement _\(si applicable\)_
+
+Recrutez progressivement !
+
+Une **rencontre avec l'intégralité de l'équipe** pourrait être l'avant dernière étape de recrutement ; la dernière étant **une semaine d'essai au sein de l'équipe**.
+
+## Rencontre Directe avec le Client et les Utilisateurs
+
+### **Pas d'Intermédiaires**
+
+Le _Product Owner_ ne doit pas être un intermédiaire entre l'équipe et le client.
+
+Généralement, il faut éviter les intermédiaires car inconsciemment, **l'information sera toujours déformée et filtrée.**
+
+Il est donc important que l'intégralité de l'équipe et le client puissent échanger au moins lors du [Sprint Review](scrum/evenements/sprint-review.md).
+
+Faites tout de même **attention aux clients envahissants** !
+
+### **Rencontrez vos Utilisateurs !**
+
+Organiser des rencontres et échanges directs entre une sélection d'utilisateurs finaux et l'équipe permet de démystifier de nombreux aspects concernant l'utilisation du produit.
+
+La rencontre fournit un indicateur qualitatif supplémentaire.
+
+## Sprint Review
+
+Organisez des [Sprint Review](scrum/evenements/sprint-review.md) même en l'absence du client et **invitez d'autres équipes** ou les curieux.
+
+Certaines entreprises affichent les horaires de [Sprint Review](scrum/evenements/sprint-review.md) des différentes équipes dans leurs couloirs.
+
+## Indicateurs
+
+Choisissez et mesurez vos [indicateurs](indicateurs.md) !
+
+
+
