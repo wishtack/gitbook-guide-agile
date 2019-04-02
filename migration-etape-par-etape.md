@@ -115,5 +115,5 @@ Certaines entreprises affichent les horaires de [Sprint Review](scrum/evenements
 
 Soyez transparents et sincères !
 
-Expliquez votre approche avec les autres équipes et partagez votre expérience !
+Expliquez votre approche aux autres équipes et partagez votre expérience !
 
