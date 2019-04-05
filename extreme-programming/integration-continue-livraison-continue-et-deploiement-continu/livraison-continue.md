@@ -29,14 +29,14 @@ En cas de rollback, il suffit de reconduire le traffic vers l'environnement pré
 
 ![Blue / Green Deployment by Cloud Foundry](../../.gitbook/assets/image%20%288%29.png)
 
-## Feature Flags
+## Feature Toggles
 
 Une fonctionnalité finalisée doit être **livrée en production** le plus rapidement possible même si **celle-ci ne doit pas encore être accessible aux utilisateurs**.
 
-L'activation de la fonctionnalité pourra se faire par configuration via des **Feature Flags**.
+L'activation de la fonctionnalité pourra se faire par configuration via des **Feature Toggles**.
 
 {% hint style="success" %}
-Les Feature Flags peuvent également servir à déployer progressivement une fonctionnalité sur une population d'utilisateurs _\(a.k.a. Canary Deployment\)._
+Les Feature Toggles peuvent également servir à déployer progressivement une fonctionnalité sur une population d'utilisateurs _\(a.k.a. Canary Deployment\)._
 {% endhint %}
 
 {% hint style="warning" %}
@@ -49,4 +49,6 @@ Le déploiement de configuration devient alors "error-prone" et plus délicat qu
 Sur Wishtack, nous avons implémenté la fonctionnalité permettant de **participer à une cagnotte** **avant** la fonctionnalité permettant **de récupérer la somme cumulée sur la cagnotte**.
 
 Il n'était bien sûr pas envisageable d'activer la première fonctionnalité sans la deuxième pour le grand public par contre, chez Wishtack, nous pouvions déjà expérimenter la première fonctionnalité en production avec des vraies transactions.
+
+![launchdarkly.com](../../.gitbook/assets/feature-toggle.png)
 
