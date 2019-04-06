@@ -66,4 +66,5 @@
   * [Agile at Scale](transformation-agile/quelques-liens.md)
 * [Transformation Etape par Etape](migration-etape-par-etape.md)
 * [Outils](outils.md)
+* [The "Rong" Way to do Agile](https://www.youtube.com/playlist?list=PLaD4FvsFdarQytrGAmCo2qW_rAWcfBKeV)
 
