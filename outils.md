@@ -20,8 +20,6 @@ Autres inconvénients de l'Agile Board physique :
 * limitations d'espace sur l'Agile Board et sur les sticky notes pour partager des informations,
 * pas de partage de liens, de fichiers joints etc... associés au tâches.
 
-![](http://courses.wishtack.com/assets/app/angular/images/agile-board-dirty.3608ca2bf9334ca05b7a415ae36ab7be.jpg)
-
 ![](.gitbook/assets/image%20%281%29.png)
 
 {% hint style="success" %}
