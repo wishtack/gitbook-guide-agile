@@ -18,6 +18,10 @@
 
 ### SAFe \| Scaled Agile Framework
 
+![Essential SAFe](../.gitbook/assets/safe-essential.png)
+
+![Full SAFe](../.gitbook/assets/safe-full.png)
+
 {% embed url="https://www.scaledagileframework.com/" %}
 
 
