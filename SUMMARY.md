@@ -63,7 +63,7 @@
   * [Contractualisation](transformation-agile/contractualisation.md)
   * [Management](transformation-agile/management.md)
   * [Scrum of Scrums](transformation-agile/scrum-of-scrums.md)
-  * [Agile at Scale](transformation-agile/quelques-liens.md)
+* [Agile at Scale](quelques-liens.md)
 * [Transformation Etape par Etape](migration-etape-par-etape.md)
 * [Outils](outils.md)
 * [The "Rong" Way to do Agile](https://www.youtube.com/playlist?list=PLaD4FvsFdarQytrGAmCo2qW_rAWcfBKeV)

@@ -2,7 +2,7 @@
 
 ## Spotify Engineering Culture
 
-![Spotify Squad Framework](../.gitbook/assets/spotify-squad-framework.png)
+![Spotify Squad Framework](.gitbook/assets/spotify-squad-framework.png)
 
 {% embed url="https://vimeo.com/85490944" caption="Spotify Engineering Culture - Part 1" %}
 
@@ -16,11 +16,11 @@
 
 {% embed url="https://less.works/" %}
 
-### SAFe \| Scaled Agile Framework
+## SAFe \| Scaled Agile Framework
 
-![Essential SAFe](../.gitbook/assets/safe-essential.png)
+![Essential SAFe](.gitbook/assets/safe-essential.png)
 
-![Full SAFe](../.gitbook/assets/safe-full.png)
+![Full SAFe](.gitbook/assets/safe-full.png)
 
 {% embed url="https://www.scaledagileframework.com/" %}
 
