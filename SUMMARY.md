@@ -66,6 +66,9 @@
 * [Agile at Scale](quelques-liens.md)
 * [Transformation Etape par Etape](migration-etape-par-etape.md)
 * [Outils](outils.md)
+
+## Bonus
+
 * [The "Rong" Way to do Agile](https://www.youtube.com/playlist?list=PLaD4FvsFdarQytrGAmCo2qW_rAWcfBKeV)
-* [Agile Causal Relations](agile-causal-relations.md)
+* [Agile Causal Relations](bonus/agile-causal-relations.md)
 

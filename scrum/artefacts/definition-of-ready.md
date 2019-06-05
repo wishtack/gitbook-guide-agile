@@ -16,7 +16,7 @@ Exemple de _Definition of Ready_ :
 {% hint style="warning" %}
 Faites bien attention à ne pas tomber dans la rédaction de lourdes spécifications !
 
-Une [User Story](user-story.md) doit rester [_Negotiable_](expression-du-besoin.md#negotiable).
+Une [User Story](user-story.md) doit rester [_négociable_](expression-du-besoin.md#negotiable).
 {% endhint %}
 
 
