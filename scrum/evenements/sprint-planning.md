@@ -38,8 +38,7 @@ Suite au Sprint Planning 1, la Scrum Team peut libérer le Product Owner.
 
 1. La Development Team **réfléchit et présente la conception / architecture / design de chaque User Story**. Cela peut se faire avec toute l'équipe ou par paire afin de paralléliser la réflexion si cela est vraiment nécessaire. Dans ce cas, la paire doit présenter le résultat de sa réflexion au reste de l'équipe.
 2. Chaque User Story est ensuite **décomposée en tâches** techniques.
-3. L' effort nécessaire pour chaque User Story **est ensuite estimé en points** par la Development Team.
-4. Les membres de la Development Team doivent ensuite **se répartir naturellement** ces tâches.
+3. Les membres de la Development Team doivent ensuite **se répartir naturellement** ces tâches.
 
 {% hint style="danger" %}
 Personne _\(ni le Product Owner, ni le Scrum Master, ni le Lead Super Hero Team Scrum Manager\)_ n'assigne les tâches aux membres de la Development Team.
@@ -49,7 +48,7 @@ Personne _\(ni le Product Owner, ni le Scrum Master, ni le Lead Super Hero Team 
 L' effort nécessaire pour chacune des stories peut être estimé en heures mais il est préférable d'utiliser des points.
 {% endhint %}
 
-### Estimation de l'Effort
+## Estimation de l'Effort
 
 L'**effort** nécessaire pour réaliser chaque User Story est évalué avec un nombre de **points** suivant généralement une suite de Fibonacci _\(1, 2, 3, 5, 8 du plus simple au plus complexe\)_.  
 En pratique, les valeurs 1, 2 et 3 suffisent et encouragent un découpage plus fin.
@@ -60,7 +59,7 @@ Cf. [Story Points vs Temps](../mesures-et-outils/story-points-vs-temps.md)
 
 Pour encourager tous les membres de la Development Team à participer à l'estimation de l'effort associé aux User Stories, l'équipe peut utiliser un jeu de cartes grâce auquel chacun réfléchit à son estimation puis tout le monde dévoile sa carte simultanément.
 
-### Répartition des Tâches
+## Répartition des Tâches
 
 De nombreuses équipes ont le réflexe d'associer chaque tâche à l'expert du sujet.
 
@@ -73,8 +72,6 @@ Bien que cette approche puisse paraître optimale, cela :
 
 {% hint style="warning" %}
 Le code le moins maintenable est souvent produits par les experts et non les débutants.
-
-Méfiez-vous des Lead Developers !
 {% endhint %}
 
 ## Astuces
