@@ -12,6 +12,12 @@
 
 {% embed url="https://medium.com/productmanagement101/spotify-squad-framework-part-ii-c5d4b9398c30" %}
 
+![](https://miro.medium.com/max/2400/1*Q_ISHGhCj3fMFfGIM7iHaw.jpeg)
+
+![](https://miro.medium.com/max/2400/1*AJ3NTOM_RoxpSfiStqb_JA.jpeg)
+
+
+
 ## LeSS \| Large Scale Scrum
 
 {% embed url="https://less.works/" %}
