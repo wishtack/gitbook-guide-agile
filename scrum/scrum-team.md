@@ -42,7 +42,7 @@ Il conseille le Product Owner pour améliorer l'efficacité de la Development Te
 
 **Il ne gère pas la Development Team mais la "coach"** pour livrer des fonctionnalités de qualité.
 
-Il promouvoit l'autogestion au sein de la Development Team.
+Il promeut l'autogestion au sein de la Development Team.
 
 Il aide le client à mieux comprendre les principes Scrum.
 
