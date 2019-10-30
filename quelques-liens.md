@@ -16,7 +16,7 @@
 
 ![](https://miro.medium.com/max/2400/1*AJ3NTOM_RoxpSfiStqb_JA.jpeg)
 
-
+![Spotify&apos;s Organizational Matric](.gitbook/assets/spotifygraphic.png)
 
 ## LeSS \| Large Scale Scrum
 
