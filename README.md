@@ -9,6 +9,8 @@ Après 5 ans de développement d'applications, d'animation de formations et d'ac
 * Produire **rapidement** des applications **performantes**, **robustes** et **maintenables**.
 * Privilégier le **pragmatisme** et mettre l'accent sur les **bonnes pratiques**.
 * Partager le fruit de nos heures de **veille**, de **recherche** et de nos **retours d'expérience**.
+* Produire un **guide** **gratuit**, **à jour** et **communautaire.**
+  * N'hésitez donc pas à nous envoyer vos Pull Requests sur : [https://github.com/wishtack/gitbook-guide-agile](https://github.com/wishtack/gitbook-guide-agile)
 
 ## Copyright <a id="copyright"></a>
 
