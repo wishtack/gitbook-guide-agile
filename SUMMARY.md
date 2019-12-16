@@ -71,4 +71,5 @@
 
 * [The "Rong" Way to do Agile](https://www.youtube.com/playlist?list=PLaD4FvsFdarQytrGAmCo2qW_rAWcfBKeV)
 * [Agile Causal Relations](bonus/agile-causal-relations.md)
+* [Talks](bonus/talks.md)
 
