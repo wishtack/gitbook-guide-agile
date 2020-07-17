@@ -34,7 +34,6 @@
     * [Burn Down Chart](scrum/mesures-et-outils/burn-down-chart.md)
     * [Burn Up Chart](scrum/mesures-et-outils/burn-up-chart.md)
     * [Technical Debt](scrum/mesures-et-outils/technical-debt.md)
-  * [Quelques Liens](scrum/quelques-liens.md)
 * [Priorisation & Planning](priorisation-and-planning/README.md)
   * [Le Modèle de Kano](priorisation-and-planning/le-modele-de-kano.md)
   * [La Méthode MoSCoW](priorisation-and-planning/la-methode-moscow.md)
@@ -66,6 +65,7 @@
 * [Agile at Scale](quelques-liens.md)
 * [Transformation Etape par Etape](migration-etape-par-etape.md)
 * [Outils](outils.md)
+* [Quelques Liens](quelques-liens-1.md)
 
 ## Bonus
 
