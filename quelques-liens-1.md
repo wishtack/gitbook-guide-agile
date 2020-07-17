@@ -14,6 +14,14 @@ Scrum Guide by [Ken Schwaber](https://twitter.com/kschwaber) and [Jeff Sutherlan
 
 {% embed url="https://www.productplan.com/product-manager-vs-product-owner/" %}
 
+## Martin Fowler explaining Agile
+
+[https://www.youtube.com/watch?v=GE6lbPLEAzc](https://www.youtube.com/watch?v=GE6lbPLEAzc)
+
+{% embed url="https://www.youtube.com/watch?v=GE6lbPLEAzc" %}
+
+
+
 ## Kent Beck about Scrum & Facebook
 
 [https://www.youtube.com/watch?v=fH4gqsIYzyE](https://www.youtube.com/watch?v=fH4gqsIYzyE)
