@@ -8,6 +8,14 @@ Scrum Guide by [Ken Schwaber](https://twitter.com/kschwaber) and [Jeff Sutherlan
 
 {% embed url="https://www.scrumguides.org/scrum-guide.html" %}
 
+## Semantic Diffusion
+
+[https://martinfowler.com/bliki/SemanticDiffusion.html](https://martinfowler.com/bliki/SemanticDiffusion.html)
+
+{% embed url="https://martinfowler.com/bliki/SemanticDiffusion.html" %}
+
+
+
 ## Product Owner vs Product Manager
 
 [https://www.productplan.com/product-manager-vs-product-owner/](https://www.productplan.com/product-manager-vs-product-owner/)
