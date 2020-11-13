@@ -36,6 +36,14 @@ Pour sélectionner l'outil adapté, en plus des fonctionnalités, il faut prendr
 
 ## Quelques outils
 
+### Planning Poker
+
+[https://planningpokeronline.com/](https://planningpokeronline.com/)
+
+{% embed url="https://planningpokeronline.com/" %}
+
+
+
 ### Pivotal Tracker
 
 Cloud, accès direct aux Commits de code associés à la User Story, **répartition automatique** du backlog sur les itérations à venir, API, etc... 
